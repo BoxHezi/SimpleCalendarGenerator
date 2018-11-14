@@ -1,0 +1,38 @@
+.calendar-border {
+    border: 1px solid #e1e1e1;
+    width: 100%;
+}
+
+.monthday {
+    color: #A8B2B9;
+    padding: 5px 50px 5px 50px;
+    text-align: center;
+}
+
+.monthdate {
+    font-size: 20px;
+    border: 1px solid #e1e1e1;
+    padding: 5px 150px 100px 5px;
+}
+
+.monthdate:hover {
+    box-shadow: 0 0 6px #ed5454;
+}
+
+.currentmonth {
+    color: #808080;
+    font-size: 20px;
+}
+
+.titleInfo {
+    text-align: center;
+    padding: 20px;
+}
+
+#month {
+    padding-left: 50px;
+}
+
+#year {
+    padding-right: 50px;
+}
